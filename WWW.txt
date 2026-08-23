@@ -1,0 +1,29 @@
+setmac 1 512 ZTEGd1B55180
+setmac 1 2177 d1B55180
+reboot
+(fpt) - macwifi 5
+
+
+admin-12345678
+
+
+
+
+setmac 1 1024 Wifi_2.4G 
+setmac 1 1025 Wifi_2.4G
+setmac 1 1026 Wifi_2.4G
+setmac 1 1027 Wifi_2.4G
+setmac 1 1028 Wifi_5G
+setmac 1 1029 Wifi_5G
+setmac 1 1030 Wifi_5G
+setmac 1 1031 Wifi_5G
+setmac 1 1296 12345678
+setmac 1 1297 12345678
+setmac 1 1298 12345678
+setmac 1 1299 12345678
+setmac 1 1328 12345678
+setmac 1 1329 12345678
+setmac 1 1330 12345678
+setmac 1 1331 12345678 
+setmac 1 1794 12345678
+upgradetest sdefconf 198
