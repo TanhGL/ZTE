@@ -5,3 +5,5 @@ kho lưu trữ ZTE
 - chỉ cần điền một Mac đầu tiên cần sửa và chọn tên thiết bị hoặc nhập tên mình muốn.
 - Ấn Generate sẽ ra các lệnh telnet.
 -  Copy toàn bộ dán vào telnet, enter rồi reboot là xong.
+<img width="1235" height="868" alt="image" src="https://github.com/user-attachments/assets/9702e108-1990-44f7-bfe0-31c951f08a83" />
+<img width="952" height="842" alt="image" src="https://github.com/user-attachments/assets/2af5fb95-2e81-413b-8742-6e6a209ae37f" />
