@@ -1,7 +1,7 @@
 # ZTE
 kho lưu trữ ZTE :
 - Mã hv3601 v9.3 =  E2631
-- ZHX F6601P viettel = 3000gzv2 fpt
+- ZHX F6601P viettel = 3000gzv2 fpt = 6201B = 6201P VNPT
 - 671Y = 1000Z fpt
 # Zte_setMAC_random.exe
 - HD: Gửi tool 2561  nào cần đổi Mac hoặ tên thiết bị
