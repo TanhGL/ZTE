@@ -16,3 +16,5 @@ kho lưu trữ ZTE :
 **HBG1000R.bin**
 - tr069config.asp
 - telnet_enable.cgi  (mở telnet) port23
+  <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6c10e8b5-e488-47d8-857f-44001ce9962c" />
+
