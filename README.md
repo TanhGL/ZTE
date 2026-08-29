@@ -12,5 +12,5 @@ kho lưu trữ ZTE :
 # AP 
 - ZTE ZXHN G1610
   
-<img width="1235" height="868" alt="image" src="https://github.com/user-attachments/assets/9702e108-1990-44f7-bfe0-31c951f08a83" />
-<img width="952" height="842" alt="image" src="https://github.com/user-attachments/assets/2af5fb95-2e81-413b-8742-6e6a209ae37f" />
+# TR069
+/tr069config.asp
