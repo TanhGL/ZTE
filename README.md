@@ -12,5 +12,5 @@ kho lưu trữ ZTE :
 # AP 
 - ZTE ZXHN G1610
   
-# TR069
+# TR069 - SFU FPT
 /tr069config.asp
