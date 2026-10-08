@@ -11,7 +11,9 @@ kho lưu trữ ZTE :
 
 # AP 
 - ZTE ZXHN G1610
-  
+
+# Fimwware FPT BOX (UNLOCK)
+  - 550 : https://drive.google.com/drive/folders/1_0KwcNApHS00rRrmschK-4UemmksJGwa?usp=sharing
 # TR069 - SFU FPT 
 **HBG1000R.bin**
 - tr069config.asp
